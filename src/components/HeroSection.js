@@ -9,6 +9,9 @@ import SectionBackground from './SectionBackground';
 
 
 
+
+
+
 export default class HeroSection extends React.Component {
     render() {
         const section = _.get(this.props, 'section');
